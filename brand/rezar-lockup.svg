@@ -1,21 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 108" role="img" aria-labelledby="title">
-  <title id="title">Rezar Auto Group — автомобіль до клієнта</title>
-  <g transform="translate(0 7) scale(.958333)">
-    <rect width="96" height="96" rx="19" fill="#102125"/>
-    <g fill="none" stroke="#F3F8F6" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M13 65h10l10-17c3-5 7-7 13-7h15c6 0 10 2 13 7l9 17h6"/>
-      <path d="M15 72h12m13 0h28m13 0h7"/>
-      <circle cx="34" cy="72" r="6"/><circle cx="74" cy="72" r="6"/>
-    </g>
-    <path d="M18 88h56m-7-6 7 6-7 6" fill="none" stroke="#49D9B9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 405 100" role="img" aria-labelledby="title">
+  <title id="title">REZAR Auto Group</title>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M8 57h10l9-13c3-4 6-6 11-6h17c5 0 8 2 11 6l9 13h12" stroke="#152A2B" stroke-width="4.5"/>
+  <path d="M8 57v8h11m16 0h27m16 0h9v-8" stroke="#152A2B" stroke-width="4.5"/>
+  <circle cx="27" cy="65" r="7" stroke="#48D8B8" stroke-width="4.5"/>
+  <circle cx="70" cy="65" r="7" stroke="#48D8B8" stroke-width="4.5"/>
+</g>
+  <g fill="#152A2B">
+    <path d="M140 0V1440H748Q769 1440 804.5 1438.5Q840 1437 868 1432Q997 1412 1079.5 1347.0Q1162 1282 1201.0 1183.5Q1240 1085 1240 964Q1240 783 1150.0 654.5Q1060 526 868 496L748 488H412V0ZM952 0 668 586 948 640 1260 0ZM412 742H736Q757 742 782.0 744.0Q807 746 828 752Q883 767 913.0 802.5Q943 838 954.5 881.5Q966 925 966 964Q966 1003 954.5 1046.5Q943 1090 913.0 1125.5Q883 1161 828 1176Q807 1182 782.0 1184.0Q757 1186 736 1186H412Z" transform="translate(113.00 73) scale(0.036000 -0.036000)"/>
+    <path d="M140 0V1440H1080V1186H412V878H960V624H412V254H1080V0Z" transform="translate(162.54 73) scale(0.036000 -0.036000)"/>
+    <path d="M100 0V34L784 1186H160V1440H1260V1406L580 256H1240V0Z" transform="translate(206.32 73) scale(0.036000 -0.036000)"/>
+    <path d="M40 0 480 1440H886L1326 0H1046L654 1270H706L320 0ZM304 300V554H1064V300Z" transform="translate(256.58 73) scale(0.036000 -0.036000)"/>
+    <path d="M140 0V1440H748Q769 1440 804.5 1438.5Q840 1437 868 1432Q997 1412 1079.5 1347.0Q1162 1282 1201.0 1183.5Q1240 1085 1240 964Q1240 783 1150.0 654.5Q1060 526 868 496L748 488H412V0ZM952 0 668 586 948 640 1260 0ZM412 742H736Q757 742 782.0 744.0Q807 746 828 752Q883 767 913.0 802.5Q943 838 954.5 881.5Q966 925 966 964Q966 1003 954.5 1046.5Q943 1090 913.0 1125.5Q883 1161 828 1176Q807 1182 782.0 1184.0Q757 1186 736 1186H412Z" transform="translate(307.06 73) scale(0.036000 -0.036000)"/>
   </g>
-  <g fill="none" stroke="#102125" stroke-width="7" stroke-linecap="square" stroke-linejoin="round">
-    <path d="M119 71V25h19q18 0 18 15t-18 15h-19m19 0 19 16"/>
-    <path d="M176 25h27m-27 0v46h27m-27-23h23"/>
-    <path d="M224 25h31l-31 46h31"/>
-    <path d="m275 71 18-46 18 46m-29-16h22"/>
-    <path d="M329 71V25h19q18 0 18 15t-18 15h-19m19 0 19 16"/>
-  </g>
-  <path d="M283 55h21" fill="none" stroke="#20BE9D" stroke-width="7" stroke-linecap="square"/>
-  <text x="119" y="96" fill="#4D6B63" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="9">AUTO GROUP</text>
+  <text x="116" y="93" fill="#527169" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="5">AUTO GROUP</text>
 </svg>
