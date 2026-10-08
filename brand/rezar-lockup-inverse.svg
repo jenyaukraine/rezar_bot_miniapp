@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 108" role="img" aria-labelledby="title">
+  <title id="title">Rezar Auto Group</title>
+  <rect x="0" y="7" width="92" height="92" rx="18" fill="#49D9B9"/>
+  <path d="M22 78V29h27c15 0 24 7 24 19S64 67 49 67H22" fill="none" stroke="#102125" stroke-width="8" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M48 66 71 83" fill="none" stroke="#102125" stroke-width="8" stroke-linecap="square"/>
+  <path d="M35 47h25" fill="none" stroke="#F3F8F6" stroke-width="6" stroke-linecap="square"/>
+  <g fill="none" stroke="#F3F8F6" stroke-width="7" stroke-linecap="square" stroke-linejoin="round">
+    <path d="M119 71V25h19q18 0 18 15t-18 15h-19m19 0 19 16"/>
+    <path d="M176 25h27m-27 0v46h27m-27-23h23"/>
+    <path d="M224 25h31l-31 46h31"/>
+    <path d="m275 71 18-46 18 46m-29-16h22"/>
+    <path d="M329 71V25h19q18 0 18 15t-18 15h-19m19 0 19 16"/>
+  </g>
+  <path d="M283 55h21" fill="none" stroke="#49D9B9" stroke-width="7" stroke-linecap="square"/>
+  <text x="119" y="96" fill="#91ADA6" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="9">AUTO GROUP</text>
+</svg>
