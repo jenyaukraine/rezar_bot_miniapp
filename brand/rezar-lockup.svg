@@ -1,11 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 405 100" role="img" aria-labelledby="title">
   <title id="title">REZAR Auto Group</title>
-  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M8 57h10l9-13c3-4 6-6 11-6h17c5 0 8 2 11 6l9 13h12" stroke="#152A2B" stroke-width="4.5"/>
-  <path d="M8 57v8h11m16 0h27m16 0h9v-8" stroke="#152A2B" stroke-width="4.5"/>
-  <circle cx="27" cy="65" r="7" stroke="#48D8B8" stroke-width="4.5"/>
-  <circle cx="70" cy="65" r="7" stroke="#48D8B8" stroke-width="4.5"/>
-</g>
+  <g fill="#152A2B" transform="translate(6 12) scale(.95)">
+    <path d="M1 3.5L70 3.5C82 3.5 91 11 91 23C91 34 83 43 72 44.5L96.5 74.5L73.3 74.5L37 30.2L68.5 30.2C71.5 30.2 73.5 28 73.5 24.8C73.5 21.8 71.5 19.5 68.5 19.5L14.1 19.5ZM4 30.2L22 30.2L58.3 74.5L40.3 74.5Z"/>
+  </g>
   <g fill="#152A2B">
     <path d="M140 0V1440H748Q769 1440 804.5 1438.5Q840 1437 868 1432Q997 1412 1079.5 1347.0Q1162 1282 1201.0 1183.5Q1240 1085 1240 964Q1240 783 1150.0 654.5Q1060 526 868 496L748 488H412V0ZM952 0 668 586 948 640 1260 0ZM412 742H736Q757 742 782.0 744.0Q807 746 828 752Q883 767 913.0 802.5Q943 838 954.5 881.5Q966 925 966 964Q966 1003 954.5 1046.5Q943 1090 913.0 1125.5Q883 1161 828 1176Q807 1182 782.0 1184.0Q757 1186 736 1186H412Z" transform="translate(113.00 73) scale(0.036000 -0.036000)"/>
     <path d="M140 0V1440H1080V1186H412V878H960V624H412V254H1080V0Z" transform="translate(162.54 73) scale(0.036000 -0.036000)"/>
